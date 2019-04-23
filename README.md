@@ -15,10 +15,16 @@ This is a Twitter Clone RESI API. These are all the features supported currently
   2. Node.js (8.11.4) -> https://nodejs.org/en/download/releases/
 
 * Steps to run:
-  1. Open a new terminal window and type this command - redis-server1. 
+  1. Open a new terminal window and type the following command:
+  ```sh
+  redis-server1
+  ```
   2. Open another terminal window in this folder and type this command - npm install.
   3. Create a .env file in this folder, set the value of SECRET to anything. It is used for session secret key. For e.g. SECRET = aksdjakdj98
-  4. After this is done, type this command - npm run server
+  4. After this is done, type the following command:
+  ```sh
+  npm run server
+  ```
   
 ### Documentation
 The documentation for the API can be found here - https://documenter.getpostman.com/view/5309265/S1ENyJr3
